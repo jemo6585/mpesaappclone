@@ -1,5 +1,5 @@
 name: mpesaappclone
-description: A new Flutter project.
+description: MPESA iOs App Clone.
 publish_to: 'none'
 version: 0.1.0
 
@@ -16,7 +16,13 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
+
+
   uses-material-design: true
-  # assets
+
+  
   assets:
-    assets/
+   - assets/
+
+
+
